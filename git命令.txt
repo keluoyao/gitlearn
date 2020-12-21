@@ -3,3 +3,9 @@
 删除已关联的远程仓库：git remote rm origin
 关联远程仓库：git remote add origin (......ssh地址)
 把当前分支推送到远程仓库：git push
+添加推送文件：git add
+简短的推动说明：git commit -m “Xxx”
+创建并切换到该分支：git checkout -b xxx
+切换到该分支：git checkout xxx
+查看分支：git branch
+将xxx分支合并到master分支：git merge xxx
