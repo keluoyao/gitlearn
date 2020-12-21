@@ -1,0 +1,5 @@
+创建本地仓库：git init
+查看是否连接远程仓库：git remote -v
+删除已关联的远程仓库：git remote rm origin
+关联远程仓库：git remote add origin (......ssh地址)
+把当前分支推送到远程仓库：git push
